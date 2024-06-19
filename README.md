@@ -34,12 +34,13 @@ synthesizing and summarizing data. Seeking an opportunity where I can utilize my
 ### `🛠️ Languages and Tools:`
   <p>
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40" />
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" />
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/> 
     <img src="https://img.icons8.com/color/48/numpy.png" alt="numpy"width="40" height="40" />
     <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40" />
-
+   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40" />
+   
   </p>
 
 
